@@ -396,13 +396,9 @@ row-gap: 48px;
 }
 .body-items{
 	--items: 3;
-	row-gap: 48px;
 }
 
-/* .body-items:nth-child(n+7)
-{
-	margin-bottom: 0px;
-} */
+
 .main-title {
 font-weight: 500;
 font-size: 20px;
