@@ -403,7 +403,6 @@ padding-right: 860px;}
 .body-items{
 	--items: 3;
 	row-gap: 48px;
-	/* margin-bottom: 24px */
 }
 
 /* .body-items:nth-child(n+7)
