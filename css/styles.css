@@ -249,10 +249,10 @@ padding-bottom: 120px;
 display: flex;
 }
 .desc-item{
-	margin-right: 24px;
+margin-right: 24px;
 }
 .desc-item:last-child{
-	margin-right: 0;
+margin-right: 0;
 }
 .section-title {
 font-weight: 500;
@@ -343,7 +343,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 }
-
 
 /* Footer */
 .footer-section {
