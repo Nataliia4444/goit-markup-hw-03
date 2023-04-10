@@ -116,7 +116,7 @@ max-width: 496px;
 font-style: normal;
 }   
 .header-contacts{
-/* display: inline-block; */
+gap: 40px;
 display: flex;
 align-items: center;
 }
@@ -131,13 +131,10 @@ display: flex;
 text-align: center;
 }
 .nav-list{
-/* display: inline-block; */
 display: flex;
-/* align-items: center; */
 gap: 40px;
 }
 .header-nav-link {
-/* display: inline-block; */
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
