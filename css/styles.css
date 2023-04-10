@@ -157,8 +157,9 @@ margin-right: 0px;
 	/* display: inline-block; */
 padding-top: 24px;
 padding-bottom: 24px;
-gap: 40px;
-}
+margin-right: 40px;
+/* gap: 40px; */}
+
 .header-nav-link:hover,
 .header-nav-link:focus {
 color: var(--ocean);
