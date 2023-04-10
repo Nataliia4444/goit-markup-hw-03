@@ -376,7 +376,6 @@ text-transform: uppercase;
 color: var(--cloud);}
 
 .footer-text {
-margin-top: 17.5px;
 color: #f4f4fd;
 min-width: 264px;
 min-height: 72px;
@@ -385,10 +384,10 @@ min-height: 72px;
 padding-right: 860px;}
 
 
-
-
 /* Portfolio */
-
+.main-item-wrapper{
+row-gap: 48px;
+}
 
 
 .main-section{
