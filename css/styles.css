@@ -206,21 +206,6 @@ color: var(--ocean);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Hero section*/
 .main-container{
 	padding-top: 188px;
@@ -323,11 +308,6 @@ min-width: 264px;
 
 /* What are we doing */
 
-/* .content-list{
-	display: flex;
-	flex-wrap: wrap;
-	gap: var(--indent);
-} */
 
 .content-title {
 font-weight: 700;
