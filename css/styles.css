@@ -181,16 +181,12 @@ color: var(--ocean);
 }
 
 
-/* Hero=section*/
+/* Hero-section*/
 
 
 /* Main-container */
 .main-container{
-	padding-top: 188px;
-	padding-bottom: 188px;
-	padding-left: 331px;
-	padding-right: 331px;
-	text-align: center;
+text-align: center;
 }
 .hero-section {
 background-color: var(--navy-blue-modal);
@@ -206,7 +202,8 @@ text-align: center;
 letter-spacing: 0.02em;
 color: var(--white);
 margin-bottom: 64px;
-min-width: 496px;
+width: 496px;
+margin: auto;
 }
 .hero-title {
 min-width: 496px;
@@ -293,6 +290,7 @@ margin-bottom: 72px;
 } 
 .content-section {
 background-color:var(--white);
+padding-top: 0px;
 }
 
 
