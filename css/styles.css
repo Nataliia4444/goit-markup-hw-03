@@ -223,11 +223,11 @@ color: #ffffff;
 
 /* About section */
 .page-section{
+padding-top: 120px;
+padding-bottom: 120px;
 }
 .page-item{
 display: flex;
-padding-bottom: 120px;
-padding-top: 120px;
 }
 .desc-item{
 margin-right: 24px;
