@@ -183,9 +183,8 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: var(--white);
-margin-bottom: 48px;
 max-width: 496px;
-margin: auto;
+margin: 0 auto 48px;
 }
 
 
